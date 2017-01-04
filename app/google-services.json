@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "176162141687",
+    "firebase_url": "https://licensegrafi-e569d.firebaseio.com",
+    "project_id": "licensegrafi-e569d",
+    "storage_bucket": "licensegrafi-e569d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176162141687:android:d9662a7bd9942a55",
+        "android_client_info": {
+          "package_name": "com.qtaaruf.licensegrafi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176162141687-ttgcj9opkoak03j08k0qn6tqibaunrja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qtaaruf.licensegrafi",
+            "certificate_hash": "4830811522A52A72074F383C81728CB6E7E7BC4E"
+          }
+        },
+        {
+          "client_id": "176162141687-23ujmi3vebh17hp2k1fbpjfmsmet8c78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPb32t6LmTvE6jo9Q0a89HDtqd2Y0WO1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176162141687-23ujmi3vebh17hp2k1fbpjfmsmet8c78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
